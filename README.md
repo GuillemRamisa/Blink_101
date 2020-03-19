@@ -1,5 +1,4 @@
 # Blink Scripting _ 101
-____________________  
   
 Blink scripts from <b>Blink 101 Tutorial</b> at:  
 http://www.guillemramisadesoto.com/tutorials#/blink-101/  
